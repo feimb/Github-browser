@@ -1,0 +1,16 @@
+:root{
+  --color-Primary-: #0d1117; 
+  --color-Secundary-: #161b22;
+}
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: var(--color-Primary-);
+  font-family: Arial, sans-serif;
+  color: #c9d1d9;
+}
